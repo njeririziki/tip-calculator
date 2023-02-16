@@ -76,7 +76,7 @@ fun TipTextField(){
         )
 
 }
-
+// the logic behind the app
 private fun calculateTip(
     amount:Double,
     tipPercent:Double=15.00
